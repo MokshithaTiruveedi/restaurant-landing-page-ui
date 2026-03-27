@@ -21,4 +21,4 @@ A visually refined and striking restaurant landing page UI designed in Figma, fe
 - Figma
 
 ## Figma Design
-[View Design](your-figma-link-here)
+[View Design](https://www.figma.com/design/dlHnUqB1A2WjSH3fZC2VFT/Untitled?node-id=0-1&t=ZvnmCUnE6LFeIKOS-1)
